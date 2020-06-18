@@ -26,7 +26,7 @@ All are implemented using C++/C programming language
       Breadth-first search is an algorithm for traversing or searching tree or graph data structures. It starts at the tree root, and         explores all of the neighbor nodes at the present depth prior to moving on to the nodes at the next depth level.
       
          2.1.1. Shortest Path: 
-             Given a unweighted graph, a source and a destination, finds shortest path from source to destination in the graph in most                optimal way.
+             Given a unweighted graph, a source and a destination, finds shortest path from source to destination in the graph in most optimal way.
        
          2.1.2 Connected Components: for undirected graphs
 
