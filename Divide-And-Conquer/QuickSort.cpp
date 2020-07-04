@@ -32,7 +32,7 @@ int randompivot(int arr[],int low,int high)       // generating random pivot
     srand(time(NULL)); 
     int random = low + rand() % (high - low); 
   
-    // Swap A[random] with A[high] 
+    // Swap A[random] with A[low] 
     swap(arr[random],arr[low]); 
   
     return partition(arr, low, high); 
