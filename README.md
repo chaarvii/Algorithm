@@ -28,7 +28,12 @@ All are implemented using C++/C programming language
          2.1.1. Shortest Path: Given a unweighted graph, a source and a destination, finds shortest path from source to destination in the graph in most optimal way.
          2.1.2 Connected Components: for undirected graphs
          2.1.3 Two Coloring Graph: Check if the graph is bipartite i.e. if the vertices of the graph can be divided into two independent sets A and B.  
-
-3. Data Structures 
+         
+     2.2.  Depth First Search: 
+          
+          2.2.1 Shortest Connected Components 
+   
 4. Greedy Algorithms
+   
+   4.1. Prim's Algorithm
 5. Dynamic Programming
